@@ -13,3 +13,13 @@ This is a simple text-based Number Guessing Game created in Python.
 
 1. Clone or download this repository.
 2. Run the `number_guess.py` file using Python 3:
+python number_guess.py
+3. Follow the prompts to guess the number.
+
+## Requirements
+
+- Python 3.x
+
+## License
+
+This project is free to use and share.
