@@ -12,4 +12,4 @@ This is a simple text-based Number Guessing Game created in Python.
 ## How to play
 
 1. Clone or download this repository.
-2. Run the `guessing_game.py` file using Python 3:
+2. Run the `number_guess.py` file using Python 3:
